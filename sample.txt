@@ -1,8 +1,5 @@
-Istanbul Berlin 4 0 200
-Istanbul Atina 2 20 120
-Berlin Helsinki 6 10 250
-Berlin Paris 1 15 100
-Paris Helsinki 7 10 300
-Paris Atina 3 40 200
-Londra Paris 0 40 100
-Londra Atina 3 10 175
+	Source     | Destination     | Stops                          | Hours      | Minutes    | Price     
+	-----------|-----------------|--------------------------------|------------|------------|-----------
+	Istanbul   | NewYork         | Berlin                         | 12         | 0          | 750       
+	Istanbul   | NewYork         | Paris                          | 12         | 10         | 800       
+	Istanbul   | NewYork         |                                | 10         | 50         | 1000      
